@@ -16,6 +16,6 @@ while True:
         elif number < secret_number:
             print(number, 'Menor do que o esperado')
 
-    else:
-        print('Você acertou o número')
-        break
+    # else:
+    #     print('Você acertou o número')
+    #     break
